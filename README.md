@@ -24,5 +24,5 @@ There is only one project file **main.py**
 
 ## References
 
-[100 Days of Code: The Complete Pythong Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/learn/lecture/19846936#overview) - Dr. Angela Yu
+[100 Days of Code: The Complete Pythong Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/learn/lecture/19846936#overview) - Dr. Angela Yu  
 [Markdown CheatSheet](https://www.markdownguide.org/cheat-sheet/)
